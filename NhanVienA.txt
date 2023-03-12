@@ -5,3 +5,4 @@ thay doi moi
 may tinh 3 sua tt
 sua tiep
 sua tiep lan 2
+tao comflict 
