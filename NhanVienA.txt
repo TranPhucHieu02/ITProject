@@ -2,4 +2,5 @@ noi dung nhan vien a
 noi dung tren nhanh a
 them noi dung tu main
 thay doi moi
-may tinh 3 sua tt
+may tinh 3 sua
+them moi
